@@ -1,9 +1,10 @@
-# Non-API-FaceBook-Scraper [2019]
-_Scrape public posts from any group or user into a .csv file without needing to register for any API access_
+# Non-API-FaceBook-Scraper [2020]
+### Adapted from [LeviBorodenko](https://github.com/LeviBorodenko/non-api-fb-scraper)
+_Scrape public posts from any group or user into a .csv file without needing to register for any API access. Additionally, post images will be saved into a folder 'Pictures' and the image title and subtitle will be added to the csv._
+
 
 ![result](https://i.imgur.com/EgObJWb.png)
-____
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 ### How to use it?
 
